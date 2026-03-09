@@ -23,3 +23,18 @@ Projekt został stworzony i skonfigurowany w środowisku Visual Studio. Do popra
 * **Strzałka w prawo** - Ruch statkiem w prawo
 * **Spacja** - Strzał (w trakcie gry) / Rozpoczęcie gry (w menu)
 * **ESC** - Wyjście z gry
+
+## 📸 Zrzuty ekranu
+
+*Ekran startowy z instrukcją dla gracza*
+
+![Ekran startowy](screenshots/start.png)
+
+*Klasyczna rozgrywka i zbieranie punktów*
+
+![Rozgrywka](screenshots/gra.png)
+
+*Ekran końcowy z podsumowaniem wyniku*
+
+![Ekran końcowy](screenshots/koniec.png)
+
